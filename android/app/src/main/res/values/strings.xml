@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Deep Web Market</string>
+    <string name="title_activity_main">Deep Web Market</string>
+    <string name="package_name">com.dwm.bruteforce</string>
+    <string name="custom_url_scheme">com.dwm.bruteforce</string>
+</resources>
